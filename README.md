@@ -3,9 +3,10 @@
 ### Knowing is not enough,we must apply. Willing is not enough,we must do.
 ![Profile Views](https://komarev.com/ghpvc/?username=yashkim77)
 
-## Question-Answering <a href="https://github.com/yashkim77/question-answering-web-app"><img src="https://img.icons8.com/wired/36/000000/link.png"/></a>
+## Question-Answering-Web-App <a href="https://github.com/yashkim77/question-answering-web-app"><img src="https://img.icons8.com/wired/36/000000/link.png"/></a>
 
 A web application used to answer question-based on a given context or passage.
+Hugging Face pretrained DistilBERT model trained on SQuAD was used.DistilBERT is a small, fast, cheap and light Transformer model trained by distilling Bert base. It has 40% less parameters than bert-base-uncased, runs 60% faster while preserving over 95% of Bert’s performances as measured on the GLUE language understanding benchmark.
 
 --- 
 
