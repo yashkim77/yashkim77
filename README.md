@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center"> Hi there, I'm Yash 👋 </h1>
 
-<!--
-**yashkim77/yashkim77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Knowing is not enough,we must apply. Willing is not enough,we must do.
+![Profile Views](https://komarev.com/ghpvc/?username=yashkim77)
 
-Here are some ideas to get you started:
+## Question-Answering <a href="https://github.com/yashkim77/question-answering-web-app"><img src="https://img.icons8.com/wired/36/000000/link.png"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A web application used to answer question-based on a given context or passage.
+
+--- 
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/yashkimtani77/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/yash_kimtani/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/YKimtani"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
