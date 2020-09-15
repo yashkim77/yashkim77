@@ -6,16 +6,16 @@
 <h2>:technologist: My Work </h2>
 <p>
   <a href="https://github.com/yashkim77/question-answering-web-app">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkim77&repo=question-answering-web-app" height=130 />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkim77&repo=question-answering-web-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=130 />
   </a>
   <a href="https://github.com/yashkim77/StackOverflow-assistant-bot">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkim77&repo=StackOverflow-assistant-bot" height=130 />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkim77&repo=StackOverflow-assistant-bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=130 />
   </a>
   <a href="https://github.com/yashkim77/Predict-tags-on-StackOverflow">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkim77&repo=Predict-tags-on-StackOverflow" height=130 />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkim77&repo=Predict-tags-on-StackOverflow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=130 />
   </a>
   <a href="https://github.com/yashkim77/AV_Food_Demand_Challenge">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkim77&repo=AV_Food_Demand_Challenge" height=130 />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkim77&repo=AV_Food_Demand_Challenge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=130 />
   </a>
  <br>
  For all of my public repositories, feedback & PRs are welcomed.
@@ -36,7 +36,7 @@
 ![jupyter-notebook](https://img.shields.io/badge/Tools-jupyter_notebook-informational?style=flat&logo=Jupyter&logoColor=white)
 ![Apache](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=Apache&logoColor=white)
 
-<h2>:zap: Github Stats </h2>
+<h2> &#x1f4c8; Github Stats </h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkim77&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark" alt="yashkim77" />
 </p>
